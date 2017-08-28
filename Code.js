@@ -1,4 +1,3 @@
-<script>
 // embeded code to be executed when document ready
 window.onload = function() {
     window.focus(); // added to be ready to listen to keys event on code playground
@@ -879,5 +878,3 @@ Shades Of Pixelated Dirt:
     Loop();
 
 };
-
-		</script>
